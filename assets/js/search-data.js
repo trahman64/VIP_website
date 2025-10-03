@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/VIP_website/syllabus/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
+        },{id: "nav-faculty",
+          title: "Faculty",
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
@@ -48,12 +48,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
-          description: "with background image",
+          description: "SEE Insight Lab",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/projects/1_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
-          description: "with background image",
+          description: "Duk Lab",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/projects/7_project/";
             },},{
