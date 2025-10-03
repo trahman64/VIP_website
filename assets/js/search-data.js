@@ -60,9 +60,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "SEE Insight Lab",
+          section: "News",},{id: "projects-see-insight-lab",
+          title: 'SEE Insight Lab',
+          description: "By Dirk Colbry",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/projects/1_project/";
             },},{id: "projects-project-7",
