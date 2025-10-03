@@ -30,7 +30,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/VIP_website/teaching/";
           },
-        },{id: "books-the-godfather",
+        },{id: "dropdown-syllabus",
+              title: "syllabus",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/VIP_website/syllabus/";
+              },
+            },{id: "dropdown-peer-evaluation",
+              title: "peer evaluation",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/VIP_website/peer_evaluation/";
+              },
+            },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
