@@ -16,19 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/VIP_website/projects/";
           },
-        },{id: "nav-syllabus",
-          title: "syllabus",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/VIP_website/syllabus/";
-          },
         },{id: "nav-faculty",
           title: "Faculty",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Information about the faculty",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/VIP_website/teaching/";
+            window.location.href = "/VIP_website/faculty/";
           },
         },{id: "dropdown-syllabus",
               title: "syllabus",
