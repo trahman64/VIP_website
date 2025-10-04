@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/VIP_website/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+  },{id: "nav-labs",
+          title: "Labs",
+          description: "Labs offering VIP courses.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/VIP_website/projects/";
+            window.location.href = "/VIP_website/labs/";
           },
         },{id: "nav-faculty",
           title: "Faculty",
@@ -30,21 +30,21 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/VIP_website/syllabus/";
               },
-            },{id: "dropdown-peer-evaluation",
-              title: "peer evaluation",
+            },{id: "dropdown-how-to-apply",
+              title: "How to Apply",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/VIP_website/peer_evaluation/";
+                window.location.href = "/VIP_website/apply/";
               },
             },{id: "projects-see-insight-lab",
           title: 'SEE Insight Lab',
           description: "By Dirk Colbry",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/projects/1_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "Duk Lab",
+            },},{id: "projects-duk-lab",
+          title: 'Duk Lab',
+          description: "by",
           section: "Projects",handler: () => {
               window.location.href = "/VIP_website/projects/7_project/";
             },},{
