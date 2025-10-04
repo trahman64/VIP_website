@@ -1,1 +1,1 @@
-.msu-banner{background:#18453b;color:#fff;display:flex;align-items:center;padding:.3rem 1rem;font-family:"Roboto",sans-serif;height:42px}.msu-banner-title{font-size:1rem;font-weight:600;line-height:1}@media(prefers-color-scheme:dark){.msu-banner{background:#0f2e26}}
+.msu-banner{position:fixed;top:0;left:0;width:100%;height:42px;background:#18453b;color:#fff;display:flex;align-items:center;justify-content:center;font-weight:600;z-index:1060}.navbar.fixed-top{position:relative!important}@media(prefers-color-scheme:dark){.msu-banner{background:#0e2c23;color:#e5e5e5}}
