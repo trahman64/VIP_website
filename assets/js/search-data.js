@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/VIP_website/";
@@ -36,6 +36,13 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/VIP_website/apply/";
+              },
+            },{id: "dropdown-peer-evaluation",
+              title: "Peer Evaluation",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/VIP_website/peer_evaluation/";
               },
             },{id: "projects-see-insight-lab",
           title: 'SEE Insight Lab',
