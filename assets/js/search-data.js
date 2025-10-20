@@ -44,11 +44,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/VIP_website/peer_evaluation/";
               },
-            },{id: "projects-see-insight-lab",
-          title: 'SEE Insight Lab',
-          description: "By Dirk Colbry",
+            },{id: "projects-team-name",
+          title: 'Team Name',
+          description: "Team description",
           section: "Projects",handler: () => {
-              window.location.href = "/VIP_website/projects/1_project/";
+              window.location.href = "/VIP_website/team-name/";
             },},{id: "projects-duk-lab",
           title: 'Duk Lab',
           description: "by",
