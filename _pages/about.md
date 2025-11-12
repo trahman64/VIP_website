@@ -33,7 +33,7 @@ The Vertically Integrated Projects (VIP) Program is a nonprofit alliance of coll
 
 ## The VIP Consortium
 
-Currently, VIP includes 50+ universities across 13 countries, each adapting the model in its own way to fit their institutional culture. Students from all backgrounds from STEM to Humanities are encouraged to participate. Look at the [Vertically Integrated Projects Consortium] (https://www.vip-consortium.org/) for more information.
+Currently, VIP includes 50+ universities across 13 countries, each adapting the model in its own way to fit their institutional culture. Students from all backgrounds from STEM to Humanities are encouraged to participate. Look at the [Vertically Integrated Projects Consortium](https://www.vip-consortium.org/) for more information.
 
 ## VIP at MSU
 
