@@ -10,15 +10,20 @@ nav_order: 6
 The **Vertically Integrated Projects (VIP) Program at Michigan State University** enables faculty to build large, multidisciplinary student teams aligned with both **faculty research goals** and **student interests**.  
 
 
-<div style="background-color:#e6f3ef; border-left:6px solid #18453B; padding:1rem 1.25rem; border-radius:8px; margin:1.5rem 0;">
-
-<strong>Through VIP, faculty can:</strong>
-<ul style="margin:0.5rem 0 0 1rem;">
-  <li>Take on <strong>larger-scale projects</strong> than would otherwise be possible.</li>
-  <li><strong>Collaborate across disciplinary boundaries</strong> with ease.</li>
-  <li><strong>Test new ideas</strong> in low-stakes, innovation-driven settings.</li>
-</ul>
-
+<div style="
+  border-left: 6px solid var(--msu-green, #18453B);
+  background-color: var(--vip-box-bg, rgba(24,69,59,0.08));
+  padding: 1rem 1.25rem;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+  transition: background-color 0.3s ease;
+">
+  <strong>Through VIP, faculty can:</strong>
+  <ul style="margin:0.5rem 0 0 1rem;">
+    <li>Take on <strong>larger-scale projects</strong> than would otherwise be possible.</li>
+    <li><strong>Collaborate across disciplinary boundaries</strong> with ease.</li>
+    <li><strong>Test new ideas</strong> in low-stakes, innovation-driven settings.</li>
+  </ul>
 </div>
 
 
