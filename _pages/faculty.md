@@ -7,4 +7,33 @@ nav: true
 nav_order: 6
 ---
 
-For more information, contact Brian
+The **Vertically Integrated Projects (VIP) Program at Michigan State University** enables faculty to build large, multidisciplinary student teams aligned with both **faculty research goals** and **student interests**.  
+
+
+<div style=" border-left:6px solid #18453B; padding:1rem 1.25rem; border-radius:8px; margin:1.5rem 0;">
+
+**Through VIP, faculty can:**
+- Take on **larger-scale projects** than would otherwise be possible.  
+- **Collaborate across disciplinary boundaries** with ease.  
+- **Test new ideas** in low-stakes, innovation-driven settings.  
+
+</div> 
+
+Students who participate across multiple semesters grow into subteam leaders — fostering continuity, knowledge transfer, and reducing the day-to-day management load on faculty mentors.These long-term teams make meaningful contributions to research portfolios and creative work
+
+---
+
+## Join a Student Team Embedded in Faculty Research
+
+VIP gives students direct access to **faculty-led research**. Unlike traditional undergraduate (or graduate) research, VIP is **team-based and multidisciplinary**.  
+
+Students are encouraged to participate for **multiple semesters**, taking on greater technical and leadership responsibilities as they gain experience.  
+
+VIP is offered as a **project-based course** (1–2 credits per semester) for **sophomores and above**.  
+Experience is **not required** — only a willingness to learn, collaborate, and contribute to meaningful research.
+
+
+Visit the [**VIP Labs Page →**](./projects.md) to explore current projects and go to the [**Apply →**](./apply.md)
+
+---
+
