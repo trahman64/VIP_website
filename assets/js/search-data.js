@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/VIP_website/faculty/";
           },
+        },{id: "nav-people",
+          title: "People",
+          description: "Instructors of the VIP Program",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/VIP_website/people/";
+          },
         },{id: "dropdown-syllabus",
               title: "Syllabus",
               description: "",
