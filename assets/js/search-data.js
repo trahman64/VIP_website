@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/VIP_website/faculty/";
           },
-        },{id: "nav-people",
-          title: "People",
-          description: "Instructors of the VIP Program",
+        },{id: "nav-vip-instructors",
+          title: "VIP Instructors",
+          description: "Faculty leading the Vertically Integrated Projects (VIP) Program",
           section: "Navigation",
           handler: () => {
             window.location.href = "/VIP_website/people/";
