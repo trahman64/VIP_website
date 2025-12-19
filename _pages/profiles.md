@@ -7,16 +7,23 @@ nav: true
 nav_order: 7
 
 profiles:
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    image_circular: false
-    name: "Dr. Dirk Colbry"
-    role: "Associate Professor, Computer Science & Engineering"
-    bio: >
-      <strong>Research Areas:</strong> Robotics, Autonomous Navigation, Multi-Robot Systems<br><br>
-      Dr. Jane Doe leads research on intelligent robotic systems that operate in unstructured environments.
-      Through VIP, she mentors students on interdisciplinary robotics pipelines, perception algorithms,
-      and embedded systems.
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: left
+    image: prof_pic.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
 ---
 
 # VIP Instructors
