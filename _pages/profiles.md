@@ -26,3 +26,7 @@ profiles:
       <p>Your City, State 12345</p>
 ---
 
+# VIP Instructors
+
+A core part of the MSU Vertically Integrated Projects (VIP) Program is the guidance and mentorship
+provided by our faculty instructors. Below is one of the instructors leading VIP teams this year.
