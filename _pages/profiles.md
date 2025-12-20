@@ -14,13 +14,9 @@ profiles:
     image_circular: false # crops the image to make it circular
     content: dirk.md
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: jeff.jpg
+    content: jeff.md
     image_circular: false # crops the image to make it circular
     
 ---
 
-# VIP Instructors
-
-A core part of the MSU Vertically Integrated Projects (VIP) Program is the guidance and mentorship
-provided by our faculty instructors. Below is one of the instructors leading VIP teams this year.
